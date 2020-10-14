@@ -1,2 +1,2 @@
 # discordjs-v12-tutorial
-Run with repl.ir and sub to me :)
+Run with [repl.it](https://repl.it) and sub to me :)
